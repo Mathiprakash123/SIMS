@@ -1,0 +1,11 @@
+.estimated-container-1{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    margin: 1rem 10rem;
+}
+.estimated-container-header{
+    font-size: 40px;
+    text-align: center;
+    margin: 1rem 10rem;
+
+}

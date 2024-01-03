@@ -1,0 +1,16 @@
+.terms-conatiner{
+    margin: 1rem 10rem;
+}
+.terms-button{
+    background-color: rgb(236, 120, 26);
+    padding: 20px;margin-left: 1rem;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+}
+.terms-close{
+    background-color:rgb(148, 216, 38);
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+}

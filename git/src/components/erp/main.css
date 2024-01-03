@@ -1,0 +1,17 @@
+.main-btn{
+    background-color: rgb(236, 120, 26);
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 1rem;
+    margin-top: 10rem;
+    border: none;
+    box-shadow: 3px 6px 16px 4px rgba(0, 0, 0, 0.2);
+}
+.main-btn:hover{
+    transform: scale(1.1);
+    transition: 0.2s ease;
+}
+.buttons{
+   margin-left:35% ;
+}

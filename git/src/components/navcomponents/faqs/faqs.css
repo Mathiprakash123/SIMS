@@ -1,0 +1,26 @@
+.faq-container-1{
+    margin: 3rem;
+}
+.faq-header{
+    text-align: center;
+    border-bottom: 1px solid black;
+    border-block-start: 10px;
+    padding-bottom: 1rem;
+    margin: 1rem 10rem;
+}
+.faq-container{
+    margin: 1rem 10rem;
+    background-color: rgb(236, 120, 26);
+    color: #000000;
+    padding: 1rem;
+    border-radius: 10px;
+}
+.question{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 2rem;
+}
+.answers{
+    font-size: 25px;
+    font-weight: bold;
+}

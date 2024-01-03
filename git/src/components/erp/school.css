@@ -1,0 +1,16 @@
+.school-container{
+    display: flex;
+    align-items: center;
+    margin: 4rem 10rem;
+    gap: 2rem;
+}
+.school-text{
+    margin-top: 1rem;
+    font-size: 20px;
+}
+.school-header{
+    font-size: 40px;
+    margin-bottom: 1rem;
+    border-bottom: 1px dotted black;
+    
+}
